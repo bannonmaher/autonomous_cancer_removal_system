@@ -1,2 +1,4 @@
 # autonomous_cancer_removal_system
-Automated surgery system utilizing small flexible mechanical arm for minimally invasive precision suction cutting and extraction of tissue including cancer – automated brain surgery.
+Artificial intelligence operated surgery system utilizing small flexible mechanical arm for minimally invasive precision suction cutting and extraction of tissue including cancer.
+
+![](autonomous_surgery_hardware.png)
